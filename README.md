@@ -1,6 +1,10 @@
-## Hi there 👋
+Process-driven Computer Engineer with over 15 years of expertise designing, managing, and optimizing high-performance enterprise IT infrastructure across the financial services, technology, and manufacturing industries. Proven success in driving modernization, measurable cost reduction, and resilience through expertise in Azure governance, virtualization (VMware/Hyper-V), storage modernization, and comprehensive Disaster Recovery (DR) mechanisms. Recognized for outstanding performance with the "Best of the Best 2021, Top Individual Performance Award" at Tangerine Bank.
+
+A detail-oriented professional, committed to continuous professional development, actively building a career around Cloud Platform Engineering. This focus is underpinned by the Google Cloud Certified Associate Cloud Engineer certification and extensive experience in automation (PowerShell) coupled with heavy training in Infrastructure-as-Code (IaC) and configuration management tools including Docker, Ansible, Terraform, HashiCorp DSL (HCL), and YAML, enabling secure, automated, and scalable cloud service delivery (CI/CD via GitHub Actions).
 
 <!--
+
+## Hi there 👋
 **onur-demirkilic/onur-demirkilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
