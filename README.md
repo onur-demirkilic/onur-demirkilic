@@ -23,5 +23,5 @@ I am a process-driven **Computer Engineer** with 15+ years of experience special
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/onurdemirkilic/)
+* **LinkedIn:** [linkedin.com/in/onurdemirkilic](https://www.linkedin.com/in/onurdemirkilic/)
 * **Email:** onurdemirkilic@gmail.com
