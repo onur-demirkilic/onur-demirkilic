@@ -1,20 +1,27 @@
-Process-driven Computer Engineer with over 15 years of expertise designing, managing, and optimizing high-performance enterprise IT infrastructure across the financial services, technology, and manufacturing industries. Proven success in driving modernization, measurable cost reduction, and resilience through expertise in Azure governance, virtualization (VMware/Hyper-V), storage modernization, and comprehensive Disaster Recovery (DR) mechanisms. Recognized for outstanding performance with the "Best of the Best 2021, Top Individual Performance Award" at Tangerine Bank.
+# Hi, I'm Onur Demirkilic 👋
+### Senior Cloud Platform & Infrastructure Engineer | AZ-104 & GCP Certified
 
-A detail-oriented professional, committed to continuous professional development, actively building a career around Cloud Platform Engineering. This focus is underpinned by the Google Cloud Certified Associate Cloud Engineer certification and extensive experience in automation (PowerShell) coupled with heavy training in Infrastructure-as-Code (IaC) and configuration management tools including Docker, Ansible, Terraform, HashiCorp DSL (HCL), and YAML, enabling secure, automated, and scalable cloud service delivery (CI/CD via GitHub Actions).
+I am a process-driven **Computer Engineer** with 15+ years of experience specializing in the design, management, and modernization of enterprise-scale hybrid infrastructure. My work focuses on bridging the gap between legacy on-premises environments and modern, automated cloud architectures.
 
-<!--
+---
 
-## Hi there 👋
-**onur-demirkilic/onur-demirkilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 What I’m Doing Now
+* **Hybrid-Cloud Management:** Overseeing complex environments across **Microsoft Azure** and **VMware/Hyper-V**, supporting 20,000+ users.
+* **Infrastructure as Code (IaC):** Architecting scalable environments using **Terraform** and **PowerShell** to ensure operational consistency.
+* **Cost Governance:** Successfully drove a **12% monthly reduction** in Azure cloud spend through resource optimization and governance policies.
+* **Modernizing Storage:** Migrating workloads to **NVME/TCP** and implementing robust Disaster Recovery (DR) via NetApp and Veeam.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
+* **Cloud:** Microsoft Azure (IaaS, PaaS, Networking, Governance), GCP
+* **Automation:** Terraform, GitHub Actions (CI/CD), Ansible, PowerShell
+* **Infrastructure:** VMware ESXi, Hyper-V, NetApp Storage, Veeam Backup & Replication
+* **OS:** Windows Server, Linux (Ubuntu/Debian)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Recognitions
+* **"Best of the Best 2021"** – Top Individual Performance Award (Bank-wide) at Tangerine Bank.
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/onurdemirkilic/)
+* **Email:** onurdemirkilic@gmail.com
